@@ -10,7 +10,7 @@ public class Aufgabe2_1810653169
             char einzelneZeichen = '\u0000'; // einzelne Zeichen des Unicode-Zeichensatzes zwischen '\u0000' und '\uffff' (16 Bit)
             byte ganzeZahlen1 = 3; // ganze Zahlen zwischen -128 und 127 (8 Bit)
             short ganzeZahlen2 = -26543; // ganze Zahlen zwischen -32768 und 32767 (16 Bit)
-            float fliesskommawert= 1.4E-45; // Fließkommawert nach IEEE 754 zwischen ca. 1.4E-45 und 3.4E38 (Einfache Genauigkeit, 32 Bit)
+            float fliesskommawert= 23.345f; // Fließkommawert nach IEEE 754 zwischen ca. 1.4E-45 und 3.4E38 (Einfache Genauigkeit, 32 Bit)
 
             final int zahl = 218;
             // Variable kann man ändern, hat 3 Attribute
